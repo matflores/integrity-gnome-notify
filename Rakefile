@@ -5,11 +5,13 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "integrity-gnome-notify"
-    gem.summary = %Q{TODO}
+    gem.summary = "Gnome-notify notifier for the Integrity continuous integration server"
+    gem.description = "Easily let Integrity notify the user after each build"
     gem.email = "mflores@atlanware.com"
-    gem.homepage = "http://github.com/matflores/integrity-gnome-notify"
-    gem.authors = ["matflores"]
-    # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    gem.homepage = "http://integrityapp.com"
+    gem.authors = ["Matías Flores"]
+    gem.add_dependency "integrity"
+    gem.rubyforge_project = "integrity"
   end
 
 rescue LoadError
