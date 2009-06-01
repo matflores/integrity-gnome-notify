@@ -1,0 +1,7 @@
+= integrity-gnome-notify
+
+A gnome-notify based notifier for the Integrity continuous integration server.
+
+== Copyright
+
+Copyright (c) 2009 Matías Flores. See LICENSE for details.
