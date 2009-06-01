@@ -21,6 +21,11 @@ And badabing! Now you can set up your projects to send notifications after
 each build (just edit the project and the config options should be
 there)
 
+Acknowledgements
+================
+
+The images I am using on the notification messages were created by [Jamie Hill][http://thelucid.com/2007/07/30/autotest-growl-fail-pass-smilies/].
+
 License
 =======
 
