@@ -1,6 +1,6 @@
 require 'test_helper'
 require 'integrity/notifier/test'
-require 'integrity/notifier/integrity-gnome-notify'
+require 'integrity/notifier/gnome-notify'
 
 class IntegrityGnomeNotifyTest < Test::Unit::TestCase
   include Integrity::Notifier::Test
