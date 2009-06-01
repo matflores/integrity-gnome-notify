@@ -24,7 +24,7 @@ there)
 Acknowledgements
 ================
 
-The images I am using on the notification messages were created by [Jamie Hill][http://thelucid.com/2007/07/30/autotest-growl-fail-pass-smilies/].
+The images I am using on the notification messages were created by [Jamie Hill][thelucid].
 
 License
 =======
@@ -54,3 +54,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [Integrity]: http://integrityapp.com
 [matflores]: http://matflores.com
+[thelucid]: http://thelucid.com/2007/07/30/autotest-growl-fail-pass-smilies/
