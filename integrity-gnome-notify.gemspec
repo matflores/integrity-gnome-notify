@@ -2,24 +2,30 @@
 
 Gem::Specification.new do |s|
   s.name = %q{integrity-gnome-notify}
-  s.version = "0.0.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mat\303\255as Flores"]
-  s.date = %q{2009-05-29}
+  s.date = %q{2009-06-01}
   s.description = %q{Easily let Integrity notify the user after each build}
   s.email = %q{mflores@atlanware.com}
   s.extra_rdoc_files = [
     "LICENSE",
+     "README.markdown",
      "README.rdoc"
   ]
   s.files = [
     ".document",
      ".gitignore",
      "LICENSE",
+     "README.markdown",
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "images/failed.png",
+     "images/pending.png",
+     "images/success.png",
+     "integrity-gnome-notify.gemspec",
      "lib/integrity/notifier/integrity-gnome-notify.rb",
      "test/integrity-gnome-notify_test.rb",
      "test/test_helper.rb"
